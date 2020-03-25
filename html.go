@@ -25,7 +25,7 @@ const (
 
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
-<title>Frontend Web Server</title>
+<title>Frontend Web Server-ANZ Bank</title>
 </head>
 <body>
 <div class="container">
@@ -36,7 +36,7 @@ const (
 
 <div class="card blue">
 <div class="card-content white-text">
-<div class="card-title">Backend-ANZ  that serviced this request</div>
+<div class="card-title">Backend-ANZ Bank  that serviced this request</div>
 </div>
 <div class="card-content white">
 <table class="bordered">
