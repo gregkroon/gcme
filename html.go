@@ -25,7 +25,7 @@ const (
 
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
-<title>Frontend Web Server-ANZ Bank </title>
+<title>Frontend Web Server-ANZ Bank Karl</title>
 </head>
 <body>
 <div class="container">
